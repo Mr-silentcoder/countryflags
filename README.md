@@ -51,8 +51,14 @@ FILE -
 - `limage`: country flag SVG image url 4x3
 
 
+## Android view
+
+<img src="/android.png" width="20%" height="20%"/>
+
+
 ## Data Source
 
 [FLAG ICONS](https://flagicons.lipis.dev/)
+
 
 
